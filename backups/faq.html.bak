@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="./assets/img/velocityx-logo.svg">
+<title>Frequently Asked Questions - Jack Travels</title>
+<meta name="description" content="Responses to typical inquiries about Jack Travels adventures, reservations, and services.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+<nav class="nav">
+  <div class="container nav-inner">
+    <a class="logo" href="index.html" aria-label="Home">  <span>Jack Travels</span></a>
+    <div class="menu" data-nav-menu>
+      <a href="index.html" style='opacity:1;font-weight:800'>Home</a>
+      <a href="game.html">Adventures</a>
+      <a href="leaderboard.html">Atlas & Features</a>
+      <a href="about.html">About Digital Gaming</a>
+      <a href="blog.html">Game Updates</a>
+      <a href="faq.html">FAQ</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+       
+    </div>
+    <div class="right"><a class="btn ghost" data-nav-toggle>Menu</a><a class="btn" href="game.html">Play Now</a></div>
+  </div>
+</nav>
+<header class='hero'><div class='container'><h1>Frequently Asked Questions</h1><p>Replies to inquiries about Jack Travels initiatives and services.</p></div></header>
+<section class='section container'>
+
+<div class='card'>
+<h3>Which adventure levels can join events?</h3>
+<p>Jack Travels invites travelers of all kinds! We organize trips for individual explorers, pairs, families, and corporate teams.</p>
+</div>
+
+<div class='card'>
+<h3>How can I register for events?</h3>
+<p>Event registration is available through our website or on-site. We offer individual sign-ups and team discounts at affordable prices.</p>
+</div>
+
+<div class='card'>
+<h3>Do you host team events and corporate competitions?</h3>
+<p>Absolutely! We organize special competitions for companies and professional groups. Contact us to book your gathering and customize the event format.</p>
+</div>
+
+<div class='card'>
+<h3>Is the venue accessible for participants of all skill levels?</h3>
+<p>Our facilities are completely welcoming and our experts are prepared to help all entrants. Please indicate any accessibility needs when booking.</p>
+</div>
+
+<div class='card'>
+<h3>What rules and guidelines govern the competitions?</h3>
+<p>We follow established snooker rules and maintain high tournament standards. Qualified referees and regulation adherence ensure equitable and spirited play.</p>
+</div>
+
+</section>
+<footer class="footer"><div class="container" style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap"><div>© 2026 Jack Travels. All rights reserved.</div><div style="display:flex;gap:12px;align-items:center"><span class="badge">Jack Travels • Assistance</span></div></div></footer><script src="assets/js/main.js"></script></body></html>

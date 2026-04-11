@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="./assets/img/velocityx-logo.svg">
+<title>Trip Guides - Jack Travels</title>
+<meta name="description" content="Trip guides, location tips, and tales from Jack Travels. Find inspiration for your upcoming journey.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+<nav class="nav">
+  <div class="container nav-inner">
+    <a class="logo" href="index.html" aria-label="Home">  <span>Jack Travels</span></a>
+    <div class="menu" data-nav-menu>
+      <a href="index.html" style='opacity:1;font-weight:800'>Home</a>
+      <a href="game.html">Experiences</a>
+      <a href="leaderboard.html">Map & Highlights</a>
+      <a href="about.html">About e-Gaming</a>
+      <a href="blog.html">Gaming News</a>
+      <a href="faq.html">FAQ</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+    </div>
+    <div class="right"><a class="btn ghost" data-nav-toggle>Menu</a><a class="btn" href="game.html">Start Game</a></div>
+  </div>
+</nav>
+<header class="hero">
+  <div class="container">
+    <h1>Journey Guides</h1>
+    <p>Place guides, discovery tips, and knowledge from Jack Travels group.</p>
+  </div>
+</header>
+
+<section class="section container">
+  <div class="blog-grid">
+
+    <div class="card blog-card">
+      <h3>Packing Tips for Light Travelers</h3>
+      <div class="meta">Knowledge from seasoned explorers and travel experts.</div>
+      <p class="excerpt">Comprehensive guide to packing light and optimizing travel potential.</p>
+      <a class="btn ghost read" href="posts/board-layouts.html">Full Article</a>
+    </div>
+
+    <div class="card blog-card">
+      <h3>Genuine Local Interactions</h3>
+      <div class="meta">Truly connecting with the places you explore.</div>
+      <p class="excerpt">Advice for significant connections and genuine community involvement.</p>
+      <a class="btn ghost read" href="posts/dice-mechanics.html">Full Article</a>
+    </div>
+
+    <div class="card blog-card">
+      <h3>Hidden Gems</h3>
+      <div class="meta">Uncovering amazing spots that few visitors find.</div>
+      <p class="excerpt">Find outstanding unknown locations with fantastic travel experiences.</p>
+      <a class="btn ghost read" href="posts/player-retention.html">Full Article</a>
+    </div>
+
+    <div class="card blog-card">
+      <h3>Capturing Journeys with Photography</h3>
+      <div class="meta">Photography advice and journey memory recording.</div>
+      <p class="excerpt">Learn methods to document your trips and save memories.</p>
+      <a class="btn ghost read" href="posts/player-retention.html">Full Article</a>
+    </div>
+
+    <div class="card blog-card">
+      <h3>Traveler Stories: Worldwide Trips</h3>
+      <div class="meta">Personal stories from travelers around the globe.</div>
+      <p class="excerpt">Inspiring tales from travelers who found incredible spots through Jack Travels.</p>
+      <a class="btn ghost read" href="posts/player-retention.html">Full Article</a>
+    </div>
+
+    <div class="card blog-card">
+      <h3>Budget Travel: Explore Wisely</h3>
+      <div class="meta">Journey on any budget.</div>
+      <p class="excerpt">Discover ways to see the world efficiently while creating enduring memories.</p>
+      <a class="btn ghost read" href="posts/modernizing-classic.html">Full Article</a>
+    </div>
+
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container" style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap"><div>© 2026 Jack Travels. All rights reserved.</div><div style="display:flex;gap:12px;align-items:center"><span class="badge">Jack Travels • Info</span></div></div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
